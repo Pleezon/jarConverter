@@ -1,5 +1,7 @@
 # jarConverter
-converts all classes in your jar to PNGs.
+converts all classes in your jar to PNGs.  
 usage:
-java -jar converter.jar input.jar output.jar
+java -jar converter.jar input.jar output.jar  
+jar will still be runnable after this,  
+it's just "obfuscated" as PNGs.
 
