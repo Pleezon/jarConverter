@@ -5,6 +5,3 @@
 java -jar converter.jar input.jar output.jar  
 ```
 jar will still be runnable after this.
-
-
-
